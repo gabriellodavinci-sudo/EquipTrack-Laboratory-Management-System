@@ -41,9 +41,10 @@
             txtUsername.BackColor = Color.IndianRed;
             txtUsername.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             txtUsername.ForeColor = SystemColors.MenuBar;
-            txtUsername.Location = new Point(337, 408);
+            txtUsername.Location = new Point(325, 441);
+            txtUsername.Margin = new Padding(3, 4, 3, 4);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(349, 29);
+            txtUsername.Size = new Size(398, 34);
             txtUsername.TabIndex = 1;
             // 
             // txtPassword
@@ -51,9 +52,10 @@
             txtPassword.BackColor = Color.IndianRed;
             txtPassword.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             txtPassword.ForeColor = SystemColors.MenuBar;
-            txtPassword.Location = new Point(337, 462);
+            txtPassword.Location = new Point(325, 513);
+            txtPassword.Margin = new Padding(3, 4, 3, 4);
             txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(349, 29);
+            txtPassword.Size = new Size(398, 34);
             txtPassword.TabIndex = 2;
             // 
             // label2
@@ -62,9 +64,9 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Impact", 14.25F);
             label2.ForeColor = Color.LemonChiffon;
-            label2.Location = new Point(337, 382);
+            label2.Location = new Point(325, 406);
             label2.Name = "label2";
-            label2.Size = new Size(89, 23);
+            label2.Size = new Size(113, 29);
             label2.TabIndex = 3;
             label2.Text = "USERNAME";
             // 
@@ -74,9 +76,9 @@
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Impact", 14.25F);
             label3.ForeColor = Color.LemonChiffon;
-            label3.Location = new Point(337, 436);
+            label3.Location = new Point(325, 478);
             label3.Name = "label3";
-            label3.Size = new Size(95, 23);
+            label3.Size = new Size(119, 29);
             label3.TabIndex = 4;
             label3.Text = "PASSWORD";
             // 
@@ -85,9 +87,10 @@
             button2.BackColor = Color.Crimson;
             button2.Font = new Font("Impact", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             button2.ForeColor = SystemColors.Info;
-            button2.Location = new Point(414, 514);
+            button2.Location = new Point(413, 582);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(172, 84);
+            button2.Size = new Size(197, 112);
             button2.TabIndex = 6;
             button2.Text = "LOGIN";
             button2.UseVisualStyleBackColor = false;
@@ -95,15 +98,16 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(1008, 786);
+            ClientSize = new Size(1019, 773);
             Controls.Add(button2);
             Controls.Add(txtPassword);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(txtUsername);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
