@@ -48,8 +48,21 @@ A full-featured laboratory equipment management system built with C# WinForms an
 6. Login as Admin or Student
 
 ## Screenshots
+### admin side screenshots
+<img width="1148" height="1081" alt="Screenshot 2026-06-03 152315" src="https://github.com/user-attachments/assets/444100b3-8663-463a-9432-d0ee49e86d9b" />
+<img width="1146" height="1082" alt="Screenshot 2026-06-03 152258" src="https://github.com/user-attachments/assets/0df41efd-c07f-4c7d-96d0-c90cd9166baa" />
+<img width="1149" height="1081" alt="Screenshot 2026-06-03 152242" src="https://github.com/user-attachments/assets/7f197a21-2a2f-4b29-bf6f-aad77ad80726" />
+<img width="1150" height="1081" alt="Screenshot 2026-06-03 152222" src="https://github.com/user-attachments/assets/e543efd9-6962-4698-aea9-b67f0f1b3e63" />
+<img width="1147" height="1081" alt="Screenshot 2026-06-03 152212" src="https://github.com/user-attachments/assets/14190597-138a-4b5c-aaf9-3b6de6e13b38" />
+<img width="1017" height="774" alt="Screenshot 2026-06-03 151756" src="https://github.com/user-attachments/assets/04f9c127-dc6d-4f65-91d5-1939805fe5ae" />
+### user/student side screenshots
+<img width="922" height="804" alt="Screenshot 2026-06-03 153455" src="https://github.com/user-attachments/assets/6a9a5961-36bf-4a64-ade4-3437deb1d1c5" />
+<img width="921" height="806" alt="Screenshot 2026-06-03 153444" src="https://github.com/user-attachments/assets/138a7f35-81a8-4f71-b492-e4b0be2cfbf3" />
+<img width="922" height="804" alt="Screenshot 2026-06-03 153430" src="https://github.com/user-attachments/assets/b1c2888d-666b-450a-9343-1f9ecd46945d" />
+<img width="923" height="837" alt="Screenshot 2026-06-03 153055" src="https://github.com/user-attachments/assets/33256c58-7733-435d-a45a-dd309f38b03e" />
+<img width="922" height="832" alt="Screenshot 2026-06-03 153045" src="https://github.com/user-attachments/assets/18bf9bfa-3b73-4335-88fb-7187a6a22184" />
 
-> Add screenshots of your app here
+
 
 ## Architecture
 
